@@ -22,7 +22,7 @@
     clear: both;
 }
 
-[class="col-"] {
+[class*="col-"] {
     float: left;
 }
 
